@@ -1,0 +1,88 @@
+Property Rights (IPR) project in simple English like this:
+The basic functionality of my project is to provide knowledge about Intellectual Property Rights, especially patents, copyrights, geographical indications, industrial designs, and trade secrets.
+
+It contains different questions related to IPR, patent filing, patent licensing, technology transfer, patent databases, and organizations like WIPO.
+
+The user can read the questions and select the correct answer from multiple options. The main purpose of the project is to help students learn and test their basic knowledge of Intellectual Property Rights through an interactive quiz.
+
+
+
+If interviewer asks “How does it work?”
+You can say:
+First, the user opens the quiz and gets multiple-choice questions related to Intellectual Property Rights. The user selects an answer for each question. After completing the questions, the system can evaluate the responses and show the result. This makes it useful for learning as well as self-assessment.
+
+
+
+One-line version to remember:
+“It is an interactive IPR quiz project that helps users learn and test their knowledge of patents, copyrights, GI, trademarks, and other intellectual property concepts.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/RajputSivam/code-Alpha
+
+what are the main functions and working of this projects
+give answers for interviews
+
+
+
+
+
+
+
+
+
+
+
+
+
+I checked your GitHub project. It is Luma Mercantile, a full-stack MERN e-commerce application using React on the frontend, Express/Node.js on the backend, and MongoDB for products and orders. GitHub
+Interview answer: “Explain your project”
+My project is called Luma Mercantile. It is a full-stack e-commerce web application built using the MERN stack.
+
+The main functionality is to allow users to browse products, view product information, and place orders.
+
+The frontend is developed using React, which provides the user interface. When the user interacts with the application, the React frontend communicates with the backend through REST APIs.
+
+The backend is developed using Node.js and Express. It handles requests from the frontend and manages operations related to products and orders.
+
+For data storage, I used MongoDB. I created models for products and orders, so the application can store and retrieve this information from the database.
+
+I also added a fallback product catalog, so the application can still run for demonstration purposes even when MongoDB is not connected.
+
+
+
+Main functions
+You can remember these 5 points for the interview:
+1. Product browsing – users can see the available products.
+2. Product information – the application provides product details.
+3. Order handling – users can place orders.
+4. REST API communication – React communicates with the Express backend.
+5. Database management – MongoDB stores product and order information. GitHub
+Interviewer: “How does your project work?”
+The working flow is simple.
+
+First, the user interacts with the React frontend and browses the products. When the user performs an operation such as requesting product or order information, the frontend sends a request to the Express backend through a REST API.
+
+The Express server processes the request and communicates with MongoDB when database data is required. MongoDB stores the product and order data.
+
+The backend then sends the response back to the React frontend, and React displays the result to the user.
+
+So the basic flow is:
+
+User → React Frontend → Express/Node.js API → MongoDB → Backend Response → React UI.
+
+
+
+If they ask “Why did you use MERN?”
+I chose the MERN stack because it allows me to use JavaScript throughout the application. React is useful for creating an interactive frontend, Express and Node.js are useful for building the backend APIs, and MongoDB provides flexible storage for products and orders. It also helped me understand how frontend, backend, APIs, and databases work together in a full-stack application.
