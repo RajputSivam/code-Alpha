@@ -1,49 +1,8 @@
-Property Rights (IPR) project in simple English like this:
-The basic functionality of my project is to provide knowledge about Intellectual Property Rights, especially patents, copyrights, geographical indications, industrial designs, and trade secrets.
-
-It contains different questions related to IPR, patent filing, patent licensing, technology transfer, patent databases, and organizations like WIPO.
-
-The user can read the questions and select the correct answer from multiple options. The main purpose of the project is to help students learn and test their basic knowledge of Intellectual Property Rights through an interactive quiz.
-
-
-
-If interviewer asks “How does it work?”
-You can say:
-First, the user opens the quiz and gets multiple-choice questions related to Intellectual Property Rights. The user selects an answer for each question. After completing the questions, the system can evaluate the responses and show the result. This makes it useful for learning as well as self-assessment.
-
-
-
-One-line version to remember:
-“It is an interactive IPR quiz project that helps users learn and test their knowledge of patents, copyrights, GI, trademarks, and other intellectual property concepts.”
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://github.com/RajputSivam/code-Alpha
 
 what are the main functions and working of this projects
 give answers for interviews
-
-
-
-
-
-
-
-
-
-
-
 
 
 I checked your GitHub project. It is Luma Mercantile, a full-stack MERN e-commerce application using React on the frontend, Express/Node.js on the backend, and MongoDB for products and orders. GitHub
